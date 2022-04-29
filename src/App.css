@@ -1,0 +1,24 @@
+body {
+  font-family: "Kanit", sans-serif;
+  /* font-family: 'Mali', cursive;
+  font-family: 'Noto Sans Thai', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Sarabun', sans-serif; */
+  font-size: 16px;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 0.5);
+  line-height: 1.6;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
